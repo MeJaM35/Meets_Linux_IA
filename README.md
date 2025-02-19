@@ -120,7 +120,7 @@
 
 ---
 
-![My GRUB](https://github.com/mejam35/Meets_Linux_IA/grub.jpg)
+![My GRUB](grub.jpg)
 
 
 ---
@@ -148,7 +148,7 @@ tar -zcvf kernel-compress.tar.gz linuxfile/
 
 ---
 
-![compressed File](https://github.com/mejam35/Meets_Linux_IA/tar.png)
+![compressed File](tar.png)
 
 
 ---
@@ -161,7 +161,7 @@ uname -r
 
 ---
 
-![Kernel name](https://github.com/mejam35/Meets_Linux_IA/uname.png)
+![Kernel name](uname.png)
 
 ---
 
