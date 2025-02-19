@@ -134,7 +134,7 @@ lsmod
 
 ---
 
-![Loaded Modules](https://github.com/mejam35/Meets_Linux_IA/lsmod.png)
+![Loaded Modules](lsmod.png)
 
 
 ---
