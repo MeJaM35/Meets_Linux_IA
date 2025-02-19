@@ -87,7 +87,7 @@
 
 ---
 
-![Activate EXT3](https://github.com/mejam35/Meets_Linux_IA/ext3.png)
+![Activate EXT3](ext3.png)
 
 
 ---
