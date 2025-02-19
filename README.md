@@ -87,7 +87,7 @@
 
 ---
 
-![Activate EXT3](https://github.com/mejam35/meets_linux_ia/ext3.png)
+![Activate EXT3](https://github.com/mejam35/Meets_Linux_IA/ext3.png)
 
 
 ---
@@ -120,7 +120,7 @@
 
 ---
 
-![My GRUB](https://github.com/mejam35/meets_linux_ia/grub.jpg)
+![My GRUB](https://github.com/mejam35/Meets_Linux_IA/grub.jpg)
 
 
 ---
@@ -134,7 +134,7 @@ lsmod
 
 ---
 
-![Loaded Modules](https://github.com/mejam35/meets_linux_ia/lsmod.png)
+![Loaded Modules](https://github.com/mejam35/Meets_Linux_IA/lsmod.png)
 
 
 ---
@@ -148,7 +148,7 @@ tar -zcvf kernel-compress.tar.gz linuxfile/
 
 ---
 
-![compressed File](https://github.com/mejam35/meets_linux_ia/tar.png)
+![compressed File](https://github.com/mejam35/Meets_Linux_IA/tar.png)
 
 
 ---
@@ -161,7 +161,7 @@ uname -r
 
 ---
 
-![Kernel name](https://github.com/mejam35/meets_linux_ia/uname.png)
+![Kernel name](https://github.com/mejam35/Meets_Linux_IA/uname.png)
 
 ---
 
