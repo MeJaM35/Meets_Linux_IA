@@ -129,7 +129,7 @@
 
 We simply use the `lsmod` command to find these:  
 ```bash
-lsmod
+lsmod | wc -l
 ```
 
 ---
