@@ -165,3 +165,5 @@ uname -r
 
 ---
 
+heres the (kernel) [https://datasciencewiizardsai-my.sharepoint.com/:u:/g/personal/meet_jamsutkar_datasciencewizards_ai/EYiSoYzopPtIqDl6NN9IBGwBZJXZqbbuxi3_ilnPTSRamw?e=cBUy4e]
+
