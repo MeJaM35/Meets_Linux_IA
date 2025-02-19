@@ -120,7 +120,7 @@
 
 ---
 
-![My GRUB](https://github.com/mejam35/meets_linux_ia/grub.png)
+![My GRUB](https://github.com/mejam35/meets_linux_ia/grub.jpg)
 
 
 ---
